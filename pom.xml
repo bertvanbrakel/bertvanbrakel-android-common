@@ -12,9 +12,9 @@
         <artifactId>bertvanbrakel-android-parent-pom</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <artifactId>com.bertvanbrakel-android-common</artifactId>
+    <artifactId>bertvanbrakel-android-common</artifactId>
     <packaging>jar</packaging>
-    <name>bertvanbrakel - Android - Common</name>
+    <name>com.bertvanbrakel - Android - Common</name>
     <description>Non application or android specific code, to work around eclipse android issues</description>
     <dependencies>
         <!-- just so we can compile some classes -->
